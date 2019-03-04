@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Training Account SL-3"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "+8J59VVoWON1nWtpbwDXcA==",
+                "sym_key": "N1/bQtVTzvhQ8Srq/SJlOxySlwk9yJJrt3Ta0DNf5bYmf4jAtArVgh/TctZJGQe7D75nMfwJ1RK3STKMpU2fK66auY2I2t7CDqWtXe6H6+SwDKoapdwGI9KNNoSHeGCkjJteqngvjcMWbF8JqJ1Cray4/G3HMmMJMO09EI9Tp1OpfWjVC3o013+V8MXjrdjuDIv6bhDv73x2I6pUvKvU8WyqWjUVG1NpmTLzOOLJSdjssixRKX10/xVMV6K5ry650kL7lR3LoMlmJGpJTtn4t0dLlO/0T8qfMlhAVSoCiKlxhPR0OuB3TfYUQRY0/mUECvkcqJ0MfoIn5R+4BSNW6Q==",
+                "value": "pXYOtopa+Hn7WCnlzFlX0g=="
+            },
+            "username": {
+                "value": "snaplogic.training2@interworks.com.mk"
+            }
+        },
+        "view_serial": 100
+    }
+}

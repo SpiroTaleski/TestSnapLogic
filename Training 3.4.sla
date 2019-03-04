@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Training 3.4"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "9GFeXEkv/uPLxHUjLMLJig==",
+                "sym_key": "E9mZqErC1Z3ZPRcGJWANfKlBD008uAkWRHISVE6yRiOBpQgGNNeJ9jV7QcSCR5YBw5hlQ/iPO+Vdumq9t/UAJA0h3F0z2kI+FBht1zFoudxeEiCiJvdtbjgWWEvjc2QLgckP0yr+Z3RZYs1HpI6Yw7GJR471jHYQ69Spy6jZKwvf3/+EVAXq45CI49YnthhlQYlE4rf5KFzHOZIK7rQrnQX+4vEZ5QQPFNn12kxjgDUMdAgDt9dPEGbW7Qq614gvjYziFdM99pgjc90ZrGgPVsg27vuqD3CVLO8xErIGO+SHzSgWdNgjhJzUqFe6yJ38e2k2VDsvjdWOVxyVccMWfA==",
+                "value": "v8zE8gcoB+lGz0QeXguxpQ=="
+            },
+            "username": {
+                "value": "SpiroTaleski"
+            }
+        },
+        "view_serial": 100
+    }
+}
